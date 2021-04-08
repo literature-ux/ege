@@ -1,18 +1,17 @@
 <style>
-P {
+p {
  padding-left: 100px;
  font-family: 'Times New Roman';
  color: #;
 }
 a {
- text-decoration: none;
  font-family:Monotype Corsiva;
  color: #1fadd7;
- font-size: 100%;
+ font-size: 1000px;
  }
 a:visited {
  color: #f55200;
- font-size: 100%;
+ font-size: 1000px;
  }
 
 body {font-size: 90px;}
