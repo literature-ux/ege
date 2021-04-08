@@ -7,12 +7,12 @@ p {
 a {
  font-family:Monotype Corsiva;
  color: #1fadd7;
- font-size: 1000px;
+ font-size: 1000%;
  }
 a:visited {
  color: #f55200;
- font-size: 1000px;
+ font-size: 1000%;
  }
 
-body {font-size: 90px;}
+body {font-size: 1000%;}
 </style>
