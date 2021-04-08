@@ -8,13 +8,13 @@ P {
  font-family: 'Times New Roman';
  color: #;
 }
-A {
+a {
  text-decoration: none;
  font-family:Monotype Corsiva;
  color: #1fadd7;
  font-size: 20000%;
  }
- A:visited {
+a:visited {
  color: #f55200;
  font-size: 1000%;
  }
